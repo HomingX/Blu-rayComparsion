@@ -1,1 +1,0 @@
-<a href="https://z4a.net/image/e2918J"><img src="https://z4a.net/images/2019/11/24/Gotham.S04D04.1080p.BluRay.AVC.DTS-HD.MA.5.1-HDBEE.00190.m2ts.scr01.md.png" alt="Gotham.S04D04.1080p.BluRay.AVC.DTS-HD.MA.5.1-HDBEE.00190.m2ts.scr01.png" border="0" /></a>
