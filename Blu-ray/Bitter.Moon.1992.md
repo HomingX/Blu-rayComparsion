@@ -1,6 +1,6 @@
 <h1 align="center">Bitter Moon</h1>
 
-#####Bitter Moon 1992 1080p Blu-ray AVC LPCM 2.0-BLUEBIRD[JP Custom]
+<h5>Bitter Moon 1992 1080p Blu-ray AVC LPCM 2.0-BLUEBIRD[JP Custom]</h5>
 ```
 DISC INFO:
 
@@ -47,7 +47,7 @@ Name            Time In         Length          Size            Total Bitrate
 00001.M2TS      0:00:00.000     2:19:20.318     41 128 642 560  39 356
 ```
 
-#####Bitter Moon 1992 1080p GER Blu-ray AVC LPCM 2.0-OLDHAM[GER]
+<h5>Bitter Moon 1992 1080p GER Blu-ray AVC LPCM 2.0-OLDHAM[GER]</h5>
 ```
 Disc Title: Bitter.Moon.1992.MULTi.COMPLETE.BLURAY-OLDHAM
 Disc Size: 39,972,311,733 bytes
